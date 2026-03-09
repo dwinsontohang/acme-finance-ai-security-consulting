@@ -6,7 +6,6 @@
 **Consulting Firm:** ZKC Consulting  
 **Consultant:** Dwinson Sitohang  
 **Engagement Period:** 3 Months  
-**Course:** Cybersecurity Consultancy (WM9B9) – UWE Bristol
 
 ACME Finance engaged ZKC Consulting to ensure the secure, compliant, and scalable adoption of AI across its global enterprise. This initiative was driven by an executive mandate to modernise operations using AI while maintaining strong data protection, operational integrity, and alignment with regulatory obligations such as GDPR.
 
