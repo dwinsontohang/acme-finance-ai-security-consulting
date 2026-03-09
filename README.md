@@ -34,3 +34,13 @@ The engagement focused on two key workstreams:
 - **Design:** Updating existing and building new security controls
 - **Deliver:** Implementing and testing security controls
 - **Defend:** Monitoring security controls post-implementation
+
+
+
+### 👤 Consultant
+
+**Dwinson Sitohang** – Cybersecurity Consultant  
+
+### 📄 License & Attribution
+
+This repository is for portfolio purposes only. All client information has been anonymized. For any inquiries, please contact the repository owner.
