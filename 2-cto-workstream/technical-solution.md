@@ -3,9 +3,7 @@
 ## Architecture Design
 
 The diagram illustrates the layered security model, clearly separating external and internal AI components while integrating shared infrastructure and control layers.
-
-<img width="1015" height="677" alt="image" src="https://github.com/user-attachments/assets/7cbd86b0-4a67-47c0-bd22-b75d0782e443" />
-<img width="1015" height="677" alt="image" src="https://github.com/user-attachments/assets/7cbd86b0-4a67-47c0-bd22-b75d0782e443" />
+<img width="1116" height="740" alt="image" src="https://github.com/user-attachments/assets/e8edd230-7aa0-4b78-ad1b-10ef91afc8bb" />
 
 
 ## Target Architecture
