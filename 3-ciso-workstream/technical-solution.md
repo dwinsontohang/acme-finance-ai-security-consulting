@@ -4,7 +4,8 @@
 
 The diagram illustrates the layered security model, clearly separating external and internal AI components while integrating shared infrastructure and control layers.
 
-![Figure 2. Secure Integration Architecture – Azure Sentinel & Security Copilot](../diagrams/figure-2-sentinel-copilot-integration.png)
+<img width="540" height="736" alt="image" src="https://github.com/user-attachments/assets/a8e3a695-34ec-482f-8a97-3aa25a57ed9d" />
+
 
 ## Target Architecture
 
