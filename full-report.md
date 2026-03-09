@@ -4,8 +4,8 @@ The complete cybersecurity consultation report for ACME Finance, as delivered by
 
 ## 📄 Report Details
 
-- **Title:** Cyber Consultant Coursework – ACME Finance AI Security Engagement  
-- **Author:** Dwinson Sitohang (5505570)  
+- **Title:** Cyber Security Consulting – ACME Finance AI Security Engagement  
+- **Author:** Dwinson Sitohang 
 - **Date:** May 2025  
 - **Pages:** 37  
 - **Format:** PDF  
